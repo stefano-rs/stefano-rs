@@ -1,4 +1,4 @@
-# Olá, eu sou o Stefano! 👋
+# 👋 Olá, eu sou o Stefano!
 Sou um programador especializado em tecnologias web, com interesse particular na criação de algoritmos para robôs de investimento durante meu tempo livre
 
 # 🚀 Expertise
